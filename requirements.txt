@@ -1,0 +1,9 @@
+opencv-python
+paddleocr
+paddlepaddle
+pytesseract
+ffmpeg-python
+transformers
+sentencepiece
+torch
+numpy
